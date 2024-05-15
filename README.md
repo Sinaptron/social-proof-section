@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="images/cintamardelfin.jpg" height="60" width="auto">
+<img src="images/cintamardelfin.jpg" height="120" width="auto">
 </div>
 
 <hr>
