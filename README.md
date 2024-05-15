@@ -4,20 +4,22 @@
 </div>
 
 <div align="center">
-<img src="images/icono.png" height="60" width="auto">
+<img src="images/cintamardelfin.jpg" height="60" width="auto">
 </div>
 
 <hr>
 
 <div align="center" style="text-align: center">
  <h1><b>Social Proof Section<b></h1>  
-<p>Social Proof Section, Este proyecto es parte del desafío #100daysofprojects promovido por</p> 
+<p>Social Proof Section, Este proyecto es parte del desafío #100daysofprojects promovido por:</p> 
 
 [Frontend-Club](https://www.facebook.com/frontendclubfb)
-<img src = "./images/screenshot.jpg" height="240" width="auto">  
+ 
 </div>
 
-<hr>
+<div align="center">
+<img src = "./images/screenshot.jpg" height="240" width="auto">  
+</div>
 
 <div align="center">
     <img src="images/linea.gif">
